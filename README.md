@@ -48,14 +48,13 @@ Simulation including internal barriers that restrict transport and modify the sp
 
 Three-dimensional simulations extend the model to more complex geometries and allow the effect of heterogeneous transport and internal barriers to be investigated.
 
-#### Chronic infection with transport barriers
+#### Elimination infection with transport barriers
 
-[▶ View animation](caso_3D/caso_con_barrera_cronico.mp4)
+![3D simulation elimination](caso_3D/eliminacion_final.gif)
 
 #### Chronic infection
 
-[▶ View animation](caso_3D/cronificacion_final.mp4)
-
+![3D simulation chronic](caso_3D/cronificacion_final.gif)
 
 ## HepGPU
 
