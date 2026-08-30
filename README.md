@@ -23,7 +23,7 @@ The one-dimensional model provides a simplified representation of the spatial ev
 
 #### Infection dynamics
 
-[▶ View animation](caso_1D/simulacion_1D.mp4)
+[▶ View animation](caso_1D/simulacion_1D.gif)
 
 
 ### 2D simulations
