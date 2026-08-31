@@ -19,9 +19,25 @@ Two-dimensional simulations are used to investigate the influence of spatial het
 
 Simulation of the infection and immune response in a domain without internal transport barriers.
 
-![2D simulation without barrier](caso_2D/simulacion_sin_barrera_negro.gif)
+<table>
+<tr>
+<td align="center" width="50%">
+<b>Without barrier</b>
+</td>
+<td align="center" width="50%">
+<b>With barrier</b>
+</td>
+</tr>
 
-![2D simulation with barrier](caso_2D/simulacion_barrera_negro.gif)
+<tr>
+<td align="center">
+<img src="caso_2D/simulacion_sin_barrera_negro.gif" width="100%">
+</td>
+<td align="center">
+<img src="caso_2D/simulacion_barrera_negro.gif" width="100%">
+</td>
+</tr>
+</table>
 
 #### Maze-like barriers
 
