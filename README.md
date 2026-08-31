@@ -2,21 +2,6 @@
 
 Simulation results and visualizations generated with **HepGPU** for the numerical modeling of hepatitis B virus (HBV) infection and immune response in the liver.
 
-## Overview
-
-This repository contains selected results obtained with HepGPU, including simulations in one-, two-, and three-dimensional domains.
-
-The examples illustrate the spatial and temporal evolution of the viral infection and immune response under different transport conditions and geometrical configurations.
-
-The simulated variables are:
-
-- `q1`: viral concentration
-- `Th`: helper T lymphocytes
-- `Tc`: cytotoxic T lymphocytes
-- `q3`: cytokine concentration
-
-## Results
-
 ### 1D simulations
 
 The one-dimensional model provides a simplified representation of the spatial evolution of the infection and immune response.
