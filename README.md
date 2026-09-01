@@ -8,7 +8,7 @@ The one-dimensional model provides a simplified representation of the spatial ev
 
 #### Infection dynamics
 
-![1D simulation](caso_1D/simulacion_1D.gif)
+![1D simulation](case_1D/simulation_1D.gif)
 
 
 ### 2D simulations
@@ -19,15 +19,15 @@ Two-dimensional simulations are used to investigate the influence of spatial het
 
 Simulation of the infection and immune response in a domain without internal transport barriers.
 
-![2D simulation without barrier](caso_2D/simulacion_sin_barrera_negro.gif)
+![2D simulation without barrier](case_2D/simulation_without_barrier.gif)
 
-![2D simulation with barrier](caso_2D/simulacion_barrera_negro.gif)
+![2D simulation with barrier](case_2D/simulation_with_barrier.gif)
 
 #### Maze-like barriers
 
 Simulation including internal barriers that restrict transport and modify the spatial propagation of the different populations.
 
-![2D simulation maze](caso_2D/simulacion_laberinto.gif)
+![2D simulation maze](case_2D/simulacion_laberinto.gif)
 
 ### 3D simulations
 
@@ -35,11 +35,11 @@ Three-dimensional simulations extend the model to more complex geometries and al
 
 #### Elimination infection with transport barriers
 
-![3D simulation elimination](caso_3D/eliminacion_final.gif)
+![3D simulation elimination](case_3D/elimination.gif)
 
 #### Chronic infection
 
-![3D simulation chronic](caso_3D/cronificacion_final.gif)
+![3D simulation chronic](case_3D/chronification.gif)
 
 ## HepGPU
 
