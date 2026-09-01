@@ -15,15 +15,11 @@ The one-dimensional model provides a simplified representation of the spatial ev
 
 Two-dimensional simulations are used to investigate the influence of spatial heterogeneity and transport restrictions on infection dynamics.
 
-#### Unobstructed domain
-
-Simulation of the infection and immune response in a domain without internal transport barriers.
-
 ![2D simulation without barrier](case_2D/case_without_barrier.gif)
 
 ![2D simulation with barrier](case_2D/case_with_barrier.gif)
 
-#### Maze-like barriers
+#### Maze simulation
 
 Simulation including internal barriers that restrict transport and modify the spatial propagation of the different populations.
 
@@ -33,16 +29,12 @@ Simulation including internal barriers that restrict transport and modify the sp
 
 Three-dimensional simulations extend the model to more complex geometries and allow the effect of heterogeneous transport and internal barriers to be investigated.
 
-#### Elimination infection with transport barriers
-
 ![3D simulation elimination](case_3D/elimination.gif)
-
-#### Chronic infection
 
 ![3D simulation chronic](case_3D/chronification.gif)
 
 ## HepGPU
 
-The simulations presented in this repository were generated using **HepGPU**, a Python package developed for the numerical simulation of virus spread and immune response in the liver.
+The simulations presented in this repository were generated using [**HepGPU**](https://github.com/navasmontilla/HepGPU/tree/main), a Python package developed for the numerical simulation of virus spread and immune response in the liver.
 
 HepGPU source code and installation instructions are available in the main HepGPU repository.
