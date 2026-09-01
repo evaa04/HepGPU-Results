@@ -36,5 +36,3 @@ Three-dimensional simulations extend the model to more complex geometries and al
 ## HepGPU
 
 The simulations presented in this repository were generated using [**HepGPU**](https://github.com/navasmontilla/HepGPU/tree/main), a Python package developed for the numerical simulation of virus spread and immune response in the liver.
-
-HepGPU source code and installation instructions are available in the main HepGPU repository.
